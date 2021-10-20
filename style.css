@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -35,5 +40,11 @@ body main h4 {
 body main p {
     font-size: 15px;
     color: darkturquoise;
+    text-align: center;
+}
+
+body main article {
+    font-size: 15px;
+    color: blue;
     text-align: center;
 }
