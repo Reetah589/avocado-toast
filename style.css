@@ -9,20 +9,20 @@ body {
 }
 
 header {
-    background-color: darkmagenta;
+    background-color: snow;
     padding: 20px 35px;
 }
 
 header h1 {
     font-weight: bold;
     font-size: 45px;
-    color: darkturquoise;
+    color: black;
     margin: 0;
     text-align: center;
 }
 
 header h2 {
-    color: darkturquoise;
+    color: black;
     font-size: 25px;
     text-align: center;
 }
@@ -42,31 +42,32 @@ header h2 {
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(red, green, blue, alpha);
-    padding: 25px;
+    padding: 50px;
     text-align: center;
-    background-color: rgb(80, 6, 80);
-    color: darkturquoise;
+    background-color: silver;
+    color: black;
+    font-size: x-large;
 }
 
 main {
-    background-color: blueviolet;
+    background-color: snow;
 }
 
 body main h4 {
     padding: 30px 45px;
     text-align: center;
-    color: darkturquoise;
+    color: black;
     font-size: 35px;
 }
 
 body main p {
     font-size: 15px;
-    color: darkturquoise;
+    color: black;
     text-align: center;
 }
 
 body main article {
     font-size: 15px;
-    color: blue;
+    color: black;
     text-align: center;
 }
