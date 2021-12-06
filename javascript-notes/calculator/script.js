@@ -1,3 +1,5 @@
+// Math is adding up on its own without me clicking on equals button
+
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
         this.previousOperandTextElement = previousOperandTextElement
