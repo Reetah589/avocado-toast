@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: green;
+    background: linear-gradient(to right, blueviolet, black);
     padding: 20px 35px;
 }
 
@@ -27,10 +27,10 @@ header h2 {
     text-align: center;
 }
 
-.hero {
+/* .hero {
     height: 300px;
     background-image: url(../avocado-toast/forest.JPG);
-}
+} */
 
 .column {
     float: left;
@@ -55,7 +55,7 @@ header h2 {
 }
 
 main {
-    background-color: green;
+    background-color: rgb(119, 19, 119);
     mix-blend-mode: overlay;
 }
 
@@ -87,7 +87,7 @@ ul li {
     cursor: pointer;
     position: relative;
     padding: 12px 8px 12px 20px;
-    background: lightgreen;
+    background: mediumorchid;
     font-size: 18px;
     transition: 0.2s;
     -webkit-user-select: none;
@@ -97,11 +97,11 @@ ul li {
 }
 
 ul li:hover {
-    background: darkolivegreen;
+    background: hotpink;
 }
 
 ul li:checked {
-    background: green;
+    background: snow;
     color: black;
     text-decoration: line-through;
 }
