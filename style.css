@@ -49,13 +49,13 @@ header h2 {
     box-shadow: 0 4px 8px 0 rgba(red, green, blue, alpha);
     padding: 50px;
     text-align: center;
-    background-color: silver;
+    background-color: whitesmoke;
     color: black;
     font-size: x-large;
 }
 
 main {
-    background-color: rgb(119, 19, 119);
+    background: linear-gradient(to right, blueviolet, black);
     mix-blend-mode: overlay;
 }
 
