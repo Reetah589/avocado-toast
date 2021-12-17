@@ -20,3 +20,11 @@ body {
     align-items: center;
     background-color: black;
 }
+
+.container {
+    width: 800px;
+    max-width: 80%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
